@@ -1,0 +1,25 @@
+{
+  "name": "w1-day3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "fol": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgs-bootcamp-2022/w1-day3.git"
+  },
+  "author": "yahya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgs-bootcamp-2022/w1-day3/issues"
+  },
+  "homepage": "https://github.com/wgs-bootcamp-2022/w1-day3#readme",
+  "description": "",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
