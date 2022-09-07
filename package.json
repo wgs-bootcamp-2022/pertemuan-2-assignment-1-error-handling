@@ -1,25 +1,39 @@
 {
-  "name": "w1-day3",
+  "name": "w1-day3-assignment-1-error-handling",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cliui": "^7.0.4",
+    "ansi-regex": "^5.0.1",
+    "color-convert": "^2.0.1",
+    "ansi-styles": "^4.3.0",
+    "color-name": "^1.1.4",
+    "escalade": "^3.1.1",
+    "emoji-regex": "^8.0.0",
+    "get-caller-file": "^2.0.5",
+    "require-directory": "^2.1.1",
+    "is-fullwidth-code-point": "^3.0.0",
+    "strip-ansi": "^6.0.1",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1",
+    "wrap-ansi": "^7.0.0",
+    "string-width": "^4.2.3",
+    "yargs-parser": "^21.1.1",
+    "y18n": "^5.0.8"
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "node app",
-    "fol": "ls",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wgs-bootcamp-2022/w1-day3.git"
+    "url": "git+https://github.com/wgs-bootcamp-2022/w1-day3-assignment1-error-handling.git"
   },
   "author": "yahya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wgs-bootcamp-2022/w1-day3/issues"
+    "url": "https://github.com/wgs-bootcamp-2022/w1-day3-assignment1-error-handling/issues"
   },
-  "homepage": "https://github.com/wgs-bootcamp-2022/w1-day3#readme",
-  "description": "",
-  "dependencies": {
-    "validator": "^13.7.0",
-    "yargs": "^17.5.1"
-  }
+  "homepage": "https://github.com/wgs-bootcamp-2022/w1-day3-assignment1-error-handling#readme"
 }
